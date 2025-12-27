@@ -6,4 +6,7 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\InternetMarket.UserService.Domain\InternetMarket.UserService.Domain.csproj" />
+  </ItemGroup>
 </Project>
